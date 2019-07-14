@@ -21,6 +21,9 @@ jupyter notebook Denoising_Autoencoder.ipynb
 5. Follow instructions on the notebook.
 
 ## Model Architecture
+
+![alt_text](https://github.com/man-bohara/denoising-autoencoder/blob/master/autoencoder_denoise.png)
+
 This model is comprised of two components.
 1) Encoder - Encoder consists of 3 convolution layers with max pooling.
 2) Decoder - Decoder consists of 3 transpose convolution layers.
